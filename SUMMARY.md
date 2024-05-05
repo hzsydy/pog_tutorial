@@ -9,7 +9,7 @@
   * [Reading Material: 什么时候该SR？](chapter-i-ops-and-rps/sr.md)
   * [番外：西 线 无 战 事——LW Budapest交换的数学期望](chapter-i-ops-and-rps/example.-budapest-jiao-huan-de-shu-xue-qi-wang.md)
   * [番外二：TW标准线交换的数学期望](chapter-i-ops-and-rps/fan-wai-er-tw-biao-zhun-xian-jiao-huan-de-shu-xue-qi-wang.md)
-  * [（2024年更新）番外：撕卡对平均点力的影响](chapter-i-ops-and-rps/2024-nian-geng-xin-fan-wai-si-ka-dui-ping-jun-dian-li-de-ying-xiang.md)
+  * [（2024年更新）番外：你的tw卡组到底有多少点力？](chapter-i-ops-and-rps/2024-nian-geng-xin-fan-wai-ni-de-tw-ka-zu-dao-di-you-duo-shao-dian-li.md)
 * [Chapter II: 战场宽度和战场纵深](chapter-ii-the-map/README.md)
   * [Section 2.1: 西线](chapter-ii-the-map/section-2.1-xi-xian.md)
   * [Section 2.2: 东线](chapter-ii-the-map/section-2.2-dong-xian.md)
