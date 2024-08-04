@@ -52,7 +52,7 @@ Sedan是德国之钥。Sedan拥有全法国唯一一个森林——可以抵消�
 
 这条线AP和CP都有两个现成的T1+Fort可以利用来防守，而且距离都很友好，同时CP正好占领西线3格，所以是最标准的开局。但2024年的结论似乎是这线对AP有些过于舒服了，导致CP要么放11a在西线，要么被换掉大量RP导致对RU不能出重拳，因此不如下文的南希线流行。
 
-如果德国想要站mole线的话，就必须在英国人布鲁塞尔出壕之前夺得布鲁塞尔——因此古代游戏的AP T1R1标开是M be1 antwerp-brussels，然后Dubno+KP flank Tarnopol刺杀AH3。如果德国不想接受这个博弈用打Brussels，可以选择转为南希线。
+如果德国想要站mole线的话，就必须在英国人布鲁塞尔出壕之前夺得布鲁塞尔——因此古代游戏的AP T1R1标开是M be1 antwerp-brussels，然后Dubno+KP flank Tarnopol刺杀AH3。如果德国不想接受这个博弈（没空打Brussels或者不想被AP白嫖allied RP），可以选择转为南希线。
 
 多提一句白学堡。白学堡的距离的确是4，但是白学堡的宽度只有1（南希），因此实际上防守压力不大。注意白学堡的德国人会面对法国人5a火力的冲击，有理论可能打出5：4而损8，因此通常会在白学堡填acc。c在这里只是血包，填什么都可以。
 
@@ -125,7 +125,7 @@ Calais是英国的色当。如果英国丢了Calais，即使是从London和Amien
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-类似的，此处可以弹Melun。注意这种能弹的线都是对CP比较舒服的。如果线固化了（比如CP在Melun两级壕的情况，或者CP在Dijon而AP进占Melun-Nevers的情况），其实是对AP有利的。
+类似的，此处可以弹Melun。注意这种能弹的线都是对CP比较舒服的。如果线固化了（比如AP在Melun掘壕的情况，或者CP在Dijon而AP进占Melun-Nevers掘壕的情况），其实是对AP有利的。
 
 注意Nevers是意大利的Sedan。失去了Nevers的西线无法简单的sr a去意大利。
 
