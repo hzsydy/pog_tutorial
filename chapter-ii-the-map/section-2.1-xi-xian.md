@@ -62,7 +62,7 @@ mole线有以下著名变体：
 * Génie变体：放弃距离2的Strasbourg给法国，退守距离1的Mannheim。如上所述，ap并站不满6个格子，因此此格对AP十分鸡肋，它对AP的宽度和距离都是2，Acc守不住，aa又会使得ap的线摊的太薄。
 * Ostend变体：CP拿下Ostend并且放一个acc，多2vp并且Ostend是一个单宽地形格锤不动，英军在正面由于要守Calais的原因少1a。常见于AP Ted开（见ct一节）的情形。
 
-### 南希Nancy，贝尔福特Belfort，和南希线
+### 南希Nancy，和南希线
 
 Nancy线是另一条比较新的“标准”线，由cp锤爆Nancy和Belfort的要塞之后掘壕得到。
 
@@ -107,19 +107,39 @@ Calais是英国的色当。如果英国丢了Calais，即使是从London和Amien
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+（注意calais的这个c是必须的）
+
 由于London的部队不能在没有Amiens的时候跨海进攻，因此这使得英军攻击大为困难——只能从Rouen和Paris攻击Amiens，但是Paris是法国出生点。这意味着从Paris进攻要花费英法堆叠的2op，除非你能一直保持paris堆满英国人——调整布防一样浪费op。&#x20;
 
 另外，这条线上法军的宽度也不大，很多点都难以被进攻。所以这条线虽然看着宽，但是大多数地方不怎么需要努力守（AAc/Acc即可）。
 
+### BLD弹性防御
 
+如果CP在CT掘出了壕，许多种弹性防御就变的可能。一种典型是BLD弹性防御（也有叫CT-Nancy两头蛇的）
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+如图，AP进入BLD会被flank。不过此线AP换起来比较舒服，CP的消耗会较大。
+
+### Melun弹性防御
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+类似的，此处可以弹Melun。注意这种能弹的线都是对CP比较舒服的。如果线固化了（比如CP在Melun两级壕的情况，或者CP在Dijon而AP进占Melun-Nevers的情况），其实是对AP有利的。
+
+注意Nevers是意大利的Sedan。失去了Nevers的西线无法简单的sr a去意大利。
 
 ### 巴黎 Paris
 
-巴黎是西线的中心，法兰西的瑰宝。它离天堂太远，离德国太近。如果失去巴黎，法国将因为不能补员而慢性死亡。西线的15分，早晚至少会丢13分（除了Rouen和Le Harve）。
+巴黎是西线的中心，法兰西的瑰宝。它离天堂太远，离德国太近。
+
+如果失去巴黎，法国将因为不能补员而慢性死亡。西线的15分，至少会丢13分（除了Rouen和Le Harve）。
+
+为了进攻巴黎，德国需要两个宽度。CT是必须的（再次显示CT的重要性），另外Amiens和Melun必须有一个（Melun比较简单）。
 
 巴黎吃皇帝攻势。所以永远不挖两级壕——除非德国铁了心要不开hl锤爆巴黎，而且已经锤到停不下来了（通常表现为德国疯狂攻击，补员格里已经躺了10+ gec），那时候也顾不得那么多了。
 
-
+当然，这种情况下，东边通常会出现大量的棕黄色人...（狗头）
 
 ## 其他次要战线
 
