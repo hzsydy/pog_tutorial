@@ -56,6 +56,7 @@ mole线有以下著名变体：
 
 * “中欧班列”：维也纳出发的3个a走2op Vienna-Augsburg-Strasbourg防守白学堡。这样可以节省1gea去东线。
 * Génie变体：放弃距离2的Strasbourg给法国，退守距离1的Mannheim。如上所述，ap并站不满6个格子，因此此格对AP十分鸡肋，它对AP的宽度和距离都是2，Acc守不住，aa又会使得ap的线摊的太薄。
+* Ostend变体：CP拿下Ostend并且放一个acc，多2vp并且Ostend是一个单宽地形格锤不动，英军在正面由于要守Calais的原因少1a。常见于AP Ted开（见ct一节）的情形。
 
 ### 南希Nancy，贝尔福特Belfort，和南希线
 
@@ -81,7 +82,7 @@ ct是法国的色当。得到ct并掘壕的德国在战略方向上会很自由�
 
 德国占领CT通常依靠“ct炮”：在mw派出2或3个gea进入ct。法国通常只能将Verdun和Nancy的fra撤回后方，并且放弃两个要塞，马恩河奇迹什么的是不存在的（当然如果胜率够低，也可以使用低胜率优势搏一搏）
 
-由于CT炮带来的优势，另一种受欢迎的AP T1R1标开是M BE1 Antwerp-CT, M BEF Brussels-CT。这个开局放弃了Dubno+KP flank Tarnopol的东线初设优势，会放跑Tarnopol的AH3，并且白给mole线，因此CP可能会应GE9 Breslau争取在LW TTC。
+由于CT炮带来的优势，另一种受欢迎的AP T1R1标开是M BE1 Antwerp-CT, M BEF Brussels-CT（似乎最早是Ted发明的）。这个开局放弃了Dubno+KP flank Tarnopol的东线初设优势，会放跑Tarnopol的AH3，并且白给mole线，因此CP可能会应GE9 Breslau争取在LW TTC。
 
 所幸的是，ct对德国是一个突出部——至少当法国还持有Melun的时候是这样。因此如果法国在人力优势的情况下全力进攻，德国并守不住ct。这常见于德国打了ct炮之后的中期。因此常见的操作是德国打ct炮，迫使凡尔登和南希的法军撤走，然后拆掉两个要塞和两个壕之后就撤退（常见的是简单的被法国人打飞）。一方面是浪费法军op，另一方面也为自己全面战争时候多一种战略选择（锤法国）。
 
