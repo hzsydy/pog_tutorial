@@ -22,3 +22,4 @@
   * [VP分析](arxiv/vp-fen-xi.md)
   * [南希线](arxiv/nan-xi-xian.md)
 * [Appendix A. The Historical Variant](appendix-a.-the-historical-variant.md)
+* [Appendix B. WGR的bug](appendix-b.-wgr-de-bug.md)
