@@ -21,5 +21,6 @@
   * [WS分析](arxiv/ws-fen-xi.md)
   * [VP分析](arxiv/vp-fen-xi.md)
   * [南希线](arxiv/nan-xi-xian.md)
+  * [PoG AP卡牌分析](arxiv/pog-ap-ka-pai-fen-xi.md)
 * [Appendix A. The Historical Variant](appendix-a.-the-historical-variant.md)
 * [Appendix B. WGR的bug](appendix-b.-wgr-de-bug.md)
